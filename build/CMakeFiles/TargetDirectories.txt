@@ -1,0 +1,3 @@
+/mnt/e/Gitrepo/Short-Cycle-Detection/build/CMakeFiles/rebuild_cache.dir
+/mnt/e/Gitrepo/Short-Cycle-Detection/build/CMakeFiles/runner.dir
+/mnt/e/Gitrepo/Short-Cycle-Detection/build/CMakeFiles/edit_cache.dir
